@@ -59,4 +59,12 @@ public class Class1 {
 	private void anchorRagu() {
 
 	}
+	private void aaa() {
+		// TODO Auto-generated method stub
+
+	}
+	private void bbb() {
+		// TODO Auto-generated method stub
+
+	}
 }
