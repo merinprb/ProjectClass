@@ -36,5 +36,11 @@ public class Class1 {
 	private void method10() {
 		// TODO Auto-generated method stub
 	}
+	private void method11() {
+		System.out.println("M11");
+	}
+	private void method12() {
+		System.out.println("M12");
+	}
 
 }
