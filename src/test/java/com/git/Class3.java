@@ -8,8 +8,9 @@ public class Class3 {
 	private void tea() {
 		System.out.println("tea");
 }
-	private void milk() {
-		System.out.println("milk");
+private void drinks() {
+System.out.println("drinks");
+}
 
 	}
-}
+
