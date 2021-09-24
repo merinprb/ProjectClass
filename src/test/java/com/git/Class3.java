@@ -69,4 +69,17 @@ private void method6() {
 	public void bookAPage() {
 		System.out.println("confirm");
 	}
+	
+	public void email() {
+		System.out.println("email");
+
+	}
+	
+	public void password() {
+System.out.println("password");
+	}
+	public void click() {
+System.out.println("click");
+	}
+
 }
