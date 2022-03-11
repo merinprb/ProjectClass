@@ -28,7 +28,16 @@ private void method6() {
 
 }
 
+	private void test1() {
+		System.out.println("ok");
+	}
+	private void test2() {
+		System.out.println("ok");
+	}
+	private void test3() {
+		System.out.println("ok");
 
+	}
 }
 =======
 	private void t1() {
